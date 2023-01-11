@@ -1,0 +1,59 @@
+INFO    2022-11-04 00:08:07,413 [main] entity.Odontologo  - Se muestra por consola un odontólogo.
+INFO    2022-11-04 01:43:35,589 [main] entity.Odontologo  - Se muestra por consola un odontólogo.
+INFO    2022-11-04 01:46:36,501 [main] Main  - Se instanció el odontólogo Odontologos{id=0, nombre='Gerardo', apellido='Muela', matricula='9'}
+INFO    2022-11-04 01:46:36,507 [main] Main  - Se instanció el odontólogo Odontologos{id=0, nombre='Jualiana', apellido='Implante', matricula='10'}
+INFO    2022-11-04 04:05:59,937 [main] test.OdontologoServiceTest  - Datos de prueba para test: Odontologo{id=0, nombre='Gerardo', apellido='Muela', matricula='9'}'Odontologo{id=0, nombre='Jualiana', apellido='Implante', matricula='10'}'Odontologo{id=0, nombre='Pedro', apellido='Escamoso', matricula='231'}
+INFO    2022-11-04 04:06:00,073 [main] test.OdontologoServiceTest  - Se realiza el test del método LISTAR ODONTOLOGOS.
+INFO    2022-11-04 04:07:07,503 [main] test.OdontologoServiceTest  - Datos de prueba para test: Odontologo{id=0, nombre='Gerardo', apellido='Muela', matricula='9'}'Odontologo{id=0, nombre='Jualiana', apellido='Implante', matricula='10'}'Odontologo{id=0, nombre='Pedro', apellido='Escamoso', matricula='231'}
+INFO    2022-11-04 04:07:07,513 [main] test.OdontologoServiceTest  - Se realiza el test del método LISTAR ODONTOLOGOS.
+INFO    2022-11-04 04:08:06,742 [main] test.OdontologoServiceTest  - Datos de prueba para test: Odontologo{id=0, nombre='Gerardo', apellido='Muela', matricula='9'}'Odontologo{id=0, nombre='Jualiana', apellido='Implante', matricula='10'}'Odontologo{id=0, nombre='Pedro', apellido='Escamoso', matricula='231'}
+INFO    2022-11-04 04:08:06,781 [main] test.OdontologoServiceTest  - Se realiza el test del método LISTAR ODONTOLOGOS.
+INFO    2022-11-04 04:09:47,327 [main] test.OdontologoServiceTest  - Datos de prueba para test: Odontologo{id=0, nombre='Gerardo', apellido='Muela', matricula='9'}
+Odontologo{id=0, nombre='Jualiana', apellido='Implante', matricula='10'}
+Odontologo{id=0, nombre='Pedro', apellido='Escamoso', matricula='231'}
+INFO    2022-11-04 04:09:47,664 [main] test.OdontologoServiceTest  - Se realiza el test del método LISTAR ODONTOLOGOS.
+INFO    2022-11-04 04:23:56,697 [main] test.OdontologoServiceTest  - Datos de prueba para test: 
+Odontologo{id=0, nombre='Gerardo', apellido='Muela', matricula='9'}
+Odontologo{id=0, nombre='Jualiana', apellido='Implante', matricula='10'}
+Odontologo{id=0, nombre='Pedro', apellido='Escamoso', matricula='231'}
+INFO    2022-11-04 04:23:56,743 [main] test.OdontologoServiceTest  - Se realiza el test del método LISTAR ODONTOLOGOS.
+INFO    2022-11-04 04:25:01,131 [main] test.OdontologoServiceTest  - Datos de prueba para test: 
+Odontologo{id=0, nombre='Gerardo', apellido='Muela', matricula='9'}
+Odontologo{id=0, nombre='Jualiana', apellido='Implante', matricula='10'}
+Odontologo{id=0, nombre='Pedro', apellido='Escamoso', matricula='231'}
+INFO    2022-11-04 04:25:01,141 [main] test.OdontologoServiceTest  - Se realiza el test del método ELIMINAR ODONTOLOGO.
+INFO    2022-11-04 04:25:01,238 [main] test.OdontologoServiceTest  - Datos de prueba para test: 
+Odontologo{id=0, nombre='Gerardo', apellido='Muela', matricula='9'}
+Odontologo{id=0, nombre='Jualiana', apellido='Implante', matricula='10'}
+Odontologo{id=0, nombre='Pedro', apellido='Escamoso', matricula='231'}
+INFO    2022-11-04 04:25:01,239 [main] test.OdontologoServiceTest  - Se realiza el test del método LISTAR ODONTOLOGOS.
+INFO    2022-11-19 20:25:47,198 [main] com.dh.clinica_odontologica.OdontologoServiceTest  - Datos de prueba para test: 
+Odontologo{id=0, nombre='Gerardo', apellido='Muela', matricula='9'}
+Odontologo{id=0, nombre='Jualiana', apellido='Implante', matricula='10'}
+Odontologo{id=0, nombre='Pedro', apellido='Escamoso', matricula='231'}
+INFO    2022-11-19 20:25:47,280 [main] com.dh.clinica_odontologica.OdontologoServiceTest  - Se realiza el test del método ELIMINAR ODONTOLOGO.
+INFO    2022-11-19 20:25:48,223 [main] com.dh.clinica_odontologica.OdontologoServiceTest  - Datos de prueba para test: 
+Odontologo{id=0, nombre='Gerardo', apellido='Muela', matricula='9'}
+Odontologo{id=0, nombre='Jualiana', apellido='Implante', matricula='10'}
+Odontologo{id=0, nombre='Pedro', apellido='Escamoso', matricula='231'}
+INFO    2022-11-19 20:25:48,232 [main] com.dh.clinica_odontologica.OdontologoServiceTest  - Se realiza el test del método LISTAR ODONTOLOGOS.
+INFO    2022-11-19 20:27:44,790 [main] com.dh.clinica_odontologica.OdontologoServiceTest  - Datos de prueba para test: 
+Odontologo{id=0, nombre='Gerardo', apellido='Muela', matricula='9'}
+Odontologo{id=0, nombre='Jualiana', apellido='Implante', matricula='10'}
+Odontologo{id=0, nombre='Pedro', apellido='Escamoso', matricula='231'}
+INFO    2022-11-19 20:27:44,801 [main] com.dh.clinica_odontologica.OdontologoServiceTest  - Se realiza el test del método ELIMINAR ODONTOLOGO.
+INFO    2022-11-19 20:27:45,403 [main] com.dh.clinica_odontologica.OdontologoServiceTest  - Datos de prueba para test: 
+Odontologo{id=0, nombre='Gerardo', apellido='Muela', matricula='9'}
+Odontologo{id=0, nombre='Jualiana', apellido='Implante', matricula='10'}
+Odontologo{id=0, nombre='Pedro', apellido='Escamoso', matricula='231'}
+INFO    2022-11-19 20:27:45,407 [main] com.dh.clinica_odontologica.OdontologoServiceTest  - Se realiza el test del método LISTAR ODONTOLOGOS.
+INFO    2022-11-19 23:07:55,404 [main] com.dh.clinica_odontologica.OdontologoServiceTest  - Datos de prueba para test: 
+Odontologo{id=0, nombre='Gerardo', apellido='Muela', matricula='9'}
+Odontologo{id=0, nombre='Jualiana', apellido='Implante', matricula='10'}
+Odontologo{id=0, nombre='Pedro', apellido='Escamoso', matricula='231'}
+INFO    2022-11-19 23:07:55,569 [main] com.dh.clinica_odontologica.OdontologoServiceTest  - Se realiza el test del método ELIMINAR ODONTOLOGO.
+INFO    2022-11-19 23:07:57,751 [main] com.dh.clinica_odontologica.OdontologoServiceTest  - Datos de prueba para test: 
+Odontologo{id=0, nombre='Gerardo', apellido='Muela', matricula='9'}
+Odontologo{id=0, nombre='Jualiana', apellido='Implante', matricula='10'}
+Odontologo{id=0, nombre='Pedro', apellido='Escamoso', matricula='231'}
+INFO    2022-11-19 23:07:57,759 [main] com.dh.clinica_odontologica.OdontologoServiceTest  - Se realiza el test del método LISTAR ODONTOLOGOS.

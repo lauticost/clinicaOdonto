@@ -1,0 +1,31 @@
+INFO    2022-11-21 19:40:57,836 [main] com.dh.clinica_odontologica.repository.impl.OdontologoDaoH2  - Se REGISTRÓ un nuevo ODONTÓLOGO: 
+Odontologo{id=0, nombre='Gerardo', apellido='Muela', matricula='9'}
+INFO    2022-11-21 19:40:57,896 [main] com.dh.clinica_odontologica.OdontologoServiceTest  - Datos de prueba para test: 
+Odontologo{id=0, nombre='Gerardo', apellido='Muela', matricula='9'}
+Odontologo{id=0, nombre='Jualiana', apellido='Implante', matricula='10'}
+Odontologo{id=0, nombre='Pedro', apellido='Escamoso', matricula='231'}
+INFO    2022-11-21 19:40:57,900 [main] com.dh.clinica_odontologica.OdontologoServiceTest  - Se realiza el test del método LISTAR ODONTOLOGOS.
+INFO    2022-11-24 18:36:03,774 [main] com.dh.clinica_odontologica.OdontologoServiceTest  - Datos de prueba para test: 
+Odontologo{id=0, nombre='Gerardo', apellido='Muela', matricula='9'}
+Odontologo{id=0, nombre='Jualiana', apellido='Implante', matricula='10'}
+Odontologo{id=0, nombre='Pedro', apellido='Escamoso', matricula='231'}
+INFO    2022-11-24 18:36:06,427 [main] com.dh.clinica_odontologica.OdontologoServiceTest  - Se realiza el test del método ELIMINAR ODONTOLOGO.
+INFO    2022-11-24 18:36:07,481 [main] com.dh.clinica_odontologica.OdontologoServiceTest  - Datos de prueba para test: 
+Odontologo{id=0, nombre='Gerardo', apellido='Muela', matricula='9'}
+Odontologo{id=0, nombre='Jualiana', apellido='Implante', matricula='10'}
+Odontologo{id=0, nombre='Pedro', apellido='Escamoso', matricula='231'}
+INFO    2022-11-24 18:36:07,491 [main] com.dh.clinica_odontologica.OdontologoServiceTest  - Se realiza el test del método LISTAR ODONTOLOGOS.
+INFO    2022-11-25 01:22:36,619 [main] com.dh.clinica_odontologica.OdontologoServiceTest  - Datos de prueba para test: 
+Odontologo{id=null, nombre='Gerardo', apellido='Muela', matricula='9'}
+Odontologo{id=null, nombre='Jualiana', apellido='Implante', matricula='10'}
+Odontologo{id=null, nombre='Pedro', apellido='Escamoso', matricula='231'}
+INFO    2022-11-25 01:22:36,670 [main] com.dh.clinica_odontologica.OdontologoServiceTest  - Se realiza el test del método ELIMINAR ODONTOLOGO.
+INFO    2022-11-25 01:22:37,794 [main] com.dh.clinica_odontologica.OdontologoServiceTest  - Datos de prueba para test: 
+Odontologo{id=null, nombre='Gerardo', apellido='Muela', matricula='9'}
+Odontologo{id=null, nombre='Jualiana', apellido='Implante', matricula='10'}
+Odontologo{id=null, nombre='Pedro', apellido='Escamoso', matricula='231'}
+INFO    2022-11-25 01:22:37,796 [main] com.dh.clinica_odontologica.OdontologoServiceTest  - Se realiza el test del método LISTAR ODONTOLOGOS.
+[2022-11-2719:33:16] [ INFO ] [OdontologoService:43] Se registró un nuevo Odontólogo: com.dh.clinica_odontologica.dto.OdontologoDTO@6749dfe8
+[2022-11-2722:21:15] [ INFO ] [OdontologoService:72] Se eliminó el Odontólogo de ID: 1
+[2022-11-2722:21:26] [ INFO ] [OdontologoService:43] Se registró un nuevo Odontólogo: com.dh.clinica_odontologica.dto.OdontologoDTO@743c5a8a
+[2022-11-2722:24:14] [ INFO ] [OdontologoService:78] Se modificó el Odontólogo: com.dh.clinica_odontologica.dto.OdontologoDTO@5310018f
